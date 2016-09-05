@@ -27,7 +27,7 @@
 
     <artifactId>smt-parent-spring-boot</artifactId>
 
-    <version>1.3.5.1-SNAPSHOT</version>
+    <version>1.4.0.0-SNAPSHOT</version>
 
     <name>${project.artifactId}</name>
 
@@ -38,8 +38,8 @@
     <url>http://shiver-me-timbers.github.io/smt-parent-spring-boot/</url>
 
     <properties>
-        <spring.boot.version>1.3.5.RELEASE</spring.boot.version>
-        <spring.version>4.2.6.RELEASE</spring.version>
+        <spring.boot.version>1.4.0.RELEASE</spring.boot.version>
+        <spring.version>4.3.2.RELEASE</spring.version>
     </properties>
 
     <dependencyManagement>
